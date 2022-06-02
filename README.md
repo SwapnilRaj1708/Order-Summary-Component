@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/SwapnilRaj1708/Order-Summary-Component)
+- Live Site URL: [Live Site URL](https://swapnilraj1708.github.io/Order-Summary-Component/)
 
 ## My process
 
@@ -68,5 +68,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://github.com/SwapnilRaj1708)
+- Website - [Swapnil Raj](https://github.com/SwapnilRaj1708)
 - Frontend Mentor - [@SwapnilRaj1708](https://www.frontendmentor.io/profile/SwapnilRaj1708)
